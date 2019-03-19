@@ -1,8 +1,11 @@
-APP端
+# APP端
 
-Android版本
+#### Android版本
 
-iOS版本
+* Google Play
+* 应用宝
+
+#### iOS版本
 
 
 
